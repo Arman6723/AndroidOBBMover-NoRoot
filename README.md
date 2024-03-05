@@ -58,6 +58,8 @@ Use the ‘ls’ command to list the contents of a directory. For example, ‘ad
 
 Use the ‘mv’ command to move folders around within the shell.
 
+for example: mv /path/to/source/file /path/to/destination/directory
+
 
 Method 2:
 How to Use the move_obb_files.sh Script
