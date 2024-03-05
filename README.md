@@ -47,17 +47,27 @@ Always double-check your commands before executing them to avoid any mistakes.
 
 
 How to Use ADB Shell
+
 Open a command prompt in the ADB folder.
+
 Type “adb devices” to check if your device is connected and recognized by ADB.
+
 Type “adb shell” to start the ADB shell.
+
 Use the ‘ls’ command to list the contents of a directory. For example, ‘adb shell ls /sdcard/’ lists the contents of the /sdcard/ directory.
+
 Use the ‘mv’ command to move folders around within the shell.
+
 
 Method 2:
 How to Use the move_obb_files.sh Script
+
 Open the move_obb_files.sh script with a text editor.
+
 Customize the source and destination paths within the script to match your needs. Don’t forget to save the changes.
+
 Open a command prompt or terminal and navigate to the directory where you saved the script.
+
 Type ‘./move_obb_files.sh’ and hit Enter. The script will use ADB to move the obb files from the specified source path to the destination path on your device.
 
 
