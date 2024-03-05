@@ -6,7 +6,7 @@ EASY.
 Time required: 3-10 minutes.
 
 
-How to Use ADB (Android Debug Bridge) to Move Files in Android
+**How to Use ADB (Android Debug Bridge) to Move Files in Android**
 
 Step 1: Install ADB on Your Computer
 
