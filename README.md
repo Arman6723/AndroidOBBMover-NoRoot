@@ -35,7 +35,8 @@ In the command prompt or terminal window, type the following command and press E
 This command should display the serial number of your device and its status. If the status is “device”, your device is properly connected and recognized by ADB.
 Use ADB to Move Files
 
-Method 1:
+**Method 1:**
+
 To move a file from your computer to your Android device, use the following command:
 adb push /path/to/local/file /path/on/device
 
@@ -64,8 +65,9 @@ Use the ‘mv’ command to move folders around within the shell.
 
 for example: mv /path/to/source/file /path/to/destination/directory
 
+**
+Method 2:**
 
-Method 2:
 How to Use the move_obb_files.sh Script
 
 Open the move_obb_files.sh script with a text editor.
