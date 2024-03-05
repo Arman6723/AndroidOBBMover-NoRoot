@@ -72,10 +72,7 @@ Type ‘./move_obb_files.sh’ and hit Enter. The script will use ADB to move th
 
 
 Happy obb file moving!" 😄📁📲
-And don't worry, if you have any questions or need further assistance, I'm here to help! 
-
-
-Let me know if you need any further assistance or have any questions!
+Let me know if you need any further assistance or have any questions! I'm here to help! 
 
 
 
