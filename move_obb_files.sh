@@ -21,6 +21,8 @@ for ((i=0; i<$length; i++)); do
   adb push ${source[$i]} ${destination[$i]}
 done
 
+
+
 # IF YOU WANT TO MOVE FILES WITHIN THE ANDROID DEVICE:
 
 # Uncomment the following lines to move files within the Android device:
