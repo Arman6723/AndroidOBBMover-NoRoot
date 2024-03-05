@@ -6,7 +6,7 @@ EASY.
 Time required: 3-10 minutes.
 
 
-**How to Use ADB (Android Debug Bridge) to Move Files in Android**
+**How to Setup and Use ADB (Android Debug Bridge) to Move Files in Android**
 
 Step 1: Install ADB on Your Computer
 
@@ -34,6 +34,8 @@ In the command prompt or terminal window, type the following command and press E
 
 This command should display the serial number of your device and its status. If the status is “device”, your device is properly connected and recognized by ADB.
 Use ADB to Move Files
+
+
 
 **Method 1:**
 
