@@ -2,7 +2,8 @@
 Android Obb Mover No Root. Obb file Transfer Without Root. Obb Relocator Easy Obb Mover No Root Required. Unrestricted Obb Movement No Downloads.
 
 EASY.
-Time required 3-10 minutes
+
+Time required: 3-10 minutes.
 
 
 How to Use ADB (Android Debug Bridge) to Move Files in Android
